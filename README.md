@@ -1,1 +1,2 @@
 # SeedGen
+Gra Minecraft wykorzystuje tzw. seed, czyli ciąg maksymalnie 19 cyfr, które determinują generowanie środowiska, w którym znajduje się gracz. Za pomocą SeedGen użytkownik ma możliwość wylosowania własnego seedu, a także wygenerowania go z wpisanego przez siebie ciągu znakowego. Program umożliwia zapisanie seedu lub tablicy seedów do pliku tekstowego, razem z datą i godziną zapisu.
